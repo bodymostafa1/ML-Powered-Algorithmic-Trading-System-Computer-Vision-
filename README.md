@@ -132,15 +132,6 @@ Everything lives in `config.py`:
 
 Confusion matrices are written to `confusion_matrix_*.png` by `step5_verify_model.py`.
 
----|---|---|---|---|---|
-| Image CNN (EfficientNetB0) | - | - | - | - | - |
-| Sequence model (CNN+BiLSTM+Attn) | - | - | - | - | - |
-| Ensemble | - | - | - | - | - |
-
-Walk-forward summary (6-month train / 1-month test): average win rate `-`, total folds `-`, best / worst fold `-`.
-
-Confusion matrices are written to `confusion_matrix_*.png` by `step5_verify_model.py`.
-
 ---
 
 ## Known Limitations
