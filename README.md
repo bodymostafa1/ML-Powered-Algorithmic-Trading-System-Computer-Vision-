@@ -67,8 +67,8 @@ flowchart LR
 ### 1. Install
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/bodymostafa1/ML-Powered-Algorithmic-Trading-System-Computer-Vision-.git
+cd ML-Powered-Algorithmic-Trading-System-Computer-Vision-
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
@@ -180,7 +180,8 @@ Python, TensorFlow / Keras, scikit-learn, pandas, NumPy, mplfinance, matplotlib,
 ## Author
 
 **Abdelrahman Mostafa Kamal** - Data Science & AI, Cairo University
-GitHub: `<your-username>` | LinkedIn: `<your-profile>`
+GitHub: [@bodymostafa1](https://github.com/bodymostafa1)
+<!-- LinkedIn: add your profile link here -->
 
 ## License
 
